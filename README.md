@@ -32,9 +32,10 @@ Constructor.
 * config - configuration object with following properties:
     * style - style object for whole container
     * button - style object for play/pause button
-    * rail - style object for sliders rail
-    * thumb - tyle object for sliders thumb
+    * rail - style object for slider's rail
+    * thumb - style object for slider's thumb
     * width - width of the slider
+    * timecode - style object for slider's timecode element
 
 ### slider.container(element)
 Changes container element of the slider.
